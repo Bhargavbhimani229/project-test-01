@@ -28,7 +28,7 @@ This is a blog project built using Node.js, Express, MongoDB, and EJS. The appli
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Bhargavbhimani229/PR-7-BLOG-Project.git
+   git clone https://github.com/Bhargavbhimani229/project-test-01
    ```
 2. Navigate to the project directory:
    ```sh
@@ -44,7 +44,7 @@ This is a blog project built using Node.js, Express, MongoDB, and EJS. The appli
    ```
 5. Open the application in your browser:
    ```sh
-   http://localhost:8076
+   http://localhost:8095
    ```
 
 ## Default Login Credentials
