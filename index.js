@@ -7,8 +7,6 @@ const port = 8095;
 app.set("view engine", "ejs");
 app.use("/uploads",express.static(__dirname + "/uploads"));
 app.use(bodyParser.urlencoded({extended:true}))
-app.use('/auth', authRoutes);
-app.use('/protected', protectedRoute);
 
 app.use("/",require("./routers"));
 
